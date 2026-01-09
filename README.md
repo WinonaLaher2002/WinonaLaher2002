@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Winona 👋
+🌱 Aspiring Developer & Creative Tech Enthusiast 🎨 Artist • 💻 Programmer • 🚀 Lifelong Learner
 
-<!--
-**WinonaLaher2002/WinonaLaher2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
+Hi! I'm Winnie, a passionate developer who enjoys building practical applications and learning new technologies. I love combining creativity and logic, whether it’s through coding, app development, or digital art.
 
-Here are some ideas to get you started:
+I'm continuously improving my skills and enjoy working on projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Technologies
+💻 Programming & Development
+Languages: JavaScript, TypeScript, SQL, Python
+Frontend: React, HTML, CSS
+Backend: Node.js
+Databases: MySQL, Supabase
+Game/App Dev: Godot (2D), Kivy (Python)
+🧰 Tools & Platforms
+Git & GitHub
+VS Code
+JasperReports / iReport
+REST APIs
+📌 Current Projects
+📝 To-Do List App (Godot + Supabase backend)
+📱 React App with Login & Registration
+🎨 LuckyLeafArtStudio – social media & digital art projects
+🌱 Currently Learning
+Advanced React & Electron
+Backend API security
+Game backend integration
+Clean code & best practices
+🎯 Goals
+Build more real-world projects
+Improve backend & database design
+Contribute to open-source projects
+Grow as a full-stack developer
+📫 Connect With Me
+GitHub: https://github.com/WinonaLaher2002/
+Portfolio: (coming soon)
+⭐ Feel free to check out my repositories and follow my journey!
