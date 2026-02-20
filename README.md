@@ -10,7 +10,8 @@ Currently focused on web development, backend systems, and small game/app projec
 * JavaScript / TypeScript
 * React, Node.js
 * SQL, Supabase
-* Godot (2D), Kivy (Python)
+* Godot (2D)
+* Kivy (Python)
 
 ### 🚀 What I’m Working On
 
