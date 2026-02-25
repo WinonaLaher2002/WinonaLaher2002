@@ -72,6 +72,8 @@ const winnie = {
 ![Pixso](https://img.shields.io/badge/Pixso-6C47FF?style=for-the-badge&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logoColor=white)
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-00A86B?style=for-the-badge&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-003366?style=for-the-badge&logo=java&logoColor=white)
+![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🎨 Design & UI Skills
 `Wireframing (Low-Fidelity)` &nbsp; `UI Design` &nbsp; `Visual Hierarchy` &nbsp; `Color Theory` &nbsp; `Typography Pairing` &nbsp; `Basic Branding` &nbsp; `Layout Composition` &nbsp; `UI/UX Design` &nbsp; `SEO Optimization`
