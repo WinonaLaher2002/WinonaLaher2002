@@ -1,116 +1,103 @@
-```
-██╗    ██╗██╗███╗   ██╗███╗   ██╗██╗███████╗
-██║    ██║██║████╗  ██║████╗  ██║██║██╔════╝
-██║ █╗ ██║██║██╔██╗ ██║██╔██╗ ██║██║█████╗  
-██║███╗██║██║██║╚██╗██║██║╚██╗██║██║██╔══╝  
-╚███╔███╔╝██║██║ ╚████║██║ ╚████║██║███████╗
- ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝╚══════╝
-```
-
 <div align="center">
 
-# Hi there, I'm Winnie 👋
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F7D9C4,100:B8E0D2&height=200&section=header&text=Hi,%20I'm%20Winnie&fontSize=42&fontColor=4A4A4A&fontAlignY=40&desc=Report%20Developer%20%C2%B7%20Web%20Designer%20%C2%B7%20Cozy%20Game%20Maker&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
-*Developer · Creative · Perpetual Learner*
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57C8FF&center=true&vCenter=true&width=435&lines=Building+apps+that+matter+%F0%9F%9A%80;Mixing+creativity+with+code+%F0%9F%8E%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&pause=1500&color=B98B73&center=true&vCenter=true&width=460&lines=Building+reports+that+make+sense+of+data+%F0%9F%93%8A;Designing+warm%2C+cottagecore-inspired+web+corners+%F0%9F%8D%82;Making+cozy+little+games+in+Godot+%F0%9F%8C%BF)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
-## `> whoami`
+## 🍵 about me
 
-```javascript
-const winnie = {
-  role:     "Developer & Creative",
-  focus:    ["Web Development", "Backend Systems", "Game Dev"],
-  learning: "Better backend architecture & clean code",
-  hobbies:  ["Building apps", "Exploring tech", "Making games"],
-  motto:    "Code it. Ship it. Improve it."
-};
+I'm a **Report Developer** at Flexible Packaging Products Corporation, where I spend my days untangling Oracle EBS data and turning it into reports people actually understand. Outside of work, I like slowing things down — building cozy, aesthetic websites, sketching cottagecore UI, and tinkering with small game projects in Godot.
+
+```yaml
+role: Report Developer @ FPPC
+day_to_day: [Oracle EBS, Oracle SQL, JasperReports / iReport]
+side_quests: [cozy web design, Godot game dev, creative coding]
+currently_learning: [backend architecture, clean SQL, C for competitive programming]
+aesthetic: warm, Pinterest-inspired, cottagecore
 ```
 
----
+<br/>
 
-## `> ls skills/`
+## 🌿 what i'm making
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**📊 Reporting & Data**
+Oracle EBS report development and SQL debugging using JasperReports / iReport — daily operational reports for the business.
+
+**🧩 Whispering Words**
+A cozy word-search game — started as Penpot wireframes, prototyped in p5.js, now being rebuilt in Phaser 3.
+
+</td>
+<td width="50%" valign="top">
+
+**🎨 Client & Personal Sites**
+Single-file responsive builds for small businesses — dental clinics, auto care, a coffee shop, a bakery, a pet supply store — plus my own portfolio.
+
+**🐾 Lucky and Petals**
+A small tic-tac-toe game built in Godot 4, part of my ongoing exploration into game dev.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧵 tools of the trade
 
 <div align="center">
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7D9C4?style=for-the-badge&logo=javascript&logoColor=4A4A4A)
+![TypeScript](https://img.shields.io/badge/TypeScript-B8E0D2?style=for-the-badge&logo=typescript&logoColor=4A4A4A)
+![PHP](https://img.shields.io/badge/PHP-E8C4B8?style=for-the-badge&logo=php&logoColor=4A4A4A)
+![Python](https://img.shields.io/badge/Python-D4C4E8?style=for-the-badge&logo=python&logoColor=4A4A4A)
+![SQL](https://img.shields.io/badge/SQL-F7D9C4?style=for-the-badge&logo=oracle&logoColor=4A4A4A)
+![HTML5](https://img.shields.io/badge/HTML5-E8C4B8?style=for-the-badge&logo=html5&logoColor=4A4A4A)
+![CSS3](https://img.shields.io/badge/CSS3-B8E0D2?style=for-the-badge&logo=css3&logoColor=4A4A4A)
 
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+**Frameworks & Data**
+![React](https://img.shields.io/badge/React-D4C4E8?style=for-the-badge&logo=react&logoColor=4A4A4A)
+![Node.js](https://img.shields.io/badge/Node.js-F7D9C4?style=for-the-badge&logo=nodedotjs&logoColor=4A4A4A)
+![Supabase](https://img.shields.io/badge/Supabase-B8E0D2?style=for-the-badge&logo=supabase&logoColor=4A4A4A)
+![Firebase](https://img.shields.io/badge/Firebase-E8C4B8?style=for-the-badge&logo=firebase&logoColor=4A4A4A)
+![MySQL](https://img.shields.io/badge/MySQL-D4C4E8?style=for-the-badge&logo=mysql&logoColor=4A4A4A)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase_(PostgreSQL)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Reporting & Enterprise**
+![Oracle](https://img.shields.io/badge/Oracle%20EBS-F7D9C4?style=for-the-badge&logo=oracle&logoColor=4A4A4A)
+![JasperReports](https://img.shields.io/badge/JasperReports%20%2F%20iReport-B8E0D2?style=for-the-badge&logo=java&logoColor=4A4A4A)
 
-### 🛠️ Tools & Platforms
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![EmailJS](https://img.shields.io/badge/EmailJS-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
-![Pixso](https://img.shields.io/badge/Pixso-6C47FF?style=for-the-badge&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logoColor=white)
-![InfinityFree](https://img.shields.io/badge/InfinityFree-00A86B?style=for-the-badge&logoColor=white)
-![JasperReports](https://img.shields.io/badge/JasperReports-003366?style=for-the-badge&logo=java&logoColor=white)
-![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🎨 Design & UI Skills
-`Wireframing (Low-Fidelity)` &nbsp; `UI Design` &nbsp; `Visual Hierarchy` &nbsp; `Color Theory` &nbsp; `Typography Pairing` &nbsp; `Basic Branding` &nbsp; `Layout Composition` &nbsp; `UI/UX Design` &nbsp; `SEO Optimization`
+**Design & Game Dev**
+![Figma](https://img.shields.io/badge/Figma-E8C4B8?style=for-the-badge&logo=figma&logoColor=4A4A4A)
+![Godot](https://img.shields.io/badge/Godot-D4C4E8?style=for-the-badge&logo=godotengine&logoColor=4A4A4A)
+![Canva](https://img.shields.io/badge/Canva-F7D9C4?style=for-the-badge&logo=canva&logoColor=4A4A4A)
+![Vercel](https://img.shields.io/badge/Vercel-B8E0D2?style=for-the-badge&logo=vercel&logoColor=4A4A4A)
+![WordPress](https://img.shields.io/badge/WordPress-E8C4B8?style=for-the-badge&logo=wordpress&logoColor=4A4A4A)
 
 </div>
 
----
+<br/>
 
-## `> cat current_projects.txt`
+## 🕯️ currently
 
-| Project | Status | Stack |
-|---------|--------|-------|
-| 📝 Productivity & To-do Apps | 🔨 In Progress | React · Supabase |
-| 🌐 Full-stack Web Projects | 🔨 In Progress | Node.js · SQL · PHP |
-| 🎮 2D Game Dev | 🌱 Learning | Godot Engine |
-| 🧹 Clean Code & Backend | ♾️ Always | Everything |
-| 🖼️ Aesthetic Web Interfaces | 🔨 In Progress | HTML · CSS · Figma |
+- 🌱 Practicing SQL on HackerRank and working competitive programming problems in C
+- 🌸 Rebuilding *Whispering Words* in Phaser 3
+- 📚 Deepening backend architecture & clean-code habits
+- ✉️ Reach me best through my portfolio site
 
----
-
-## `> top --processes`
-
-```
-PID   PROCESS              CPU    STATUS
-────────────────────────────────────────────
-001   web_development      ████░  active
-002   backend_systems      ███░░  active  
-003   game_projects        ██░░░  active
-004   learning_new_things  █████  always running
-```
-
----
+<br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:B8E0D2,100:F7D9C4&height=100&section=footer"/>
 
-*Thanks for stopping by — feel free to explore my repos!* ⭐
-
-![Visitor Count](https://komarev.com/ghpvc/?username=winnie&color=57C8FF&style=flat-square&label=visitors)
+<sub>thanks for stopping by, take a slice of tea and stay a while 🍵</sub>
 
 </div>
